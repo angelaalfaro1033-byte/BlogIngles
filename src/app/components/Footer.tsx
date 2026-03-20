@@ -18,10 +18,10 @@ export function Footer() {
               <span className="text-red-600">CIPAS</span>
             </div>
             <p className="text-gray-400 max-w-md">
-              Blog de fans de Avengers
+              Avengers fan blog
             </p>
             <p className="text-gray-500 text-sm mt-2">
-              © 2026 Todos los derechos reservados
+              © 2026 All rights reserved
             </p>
           </div>
 
