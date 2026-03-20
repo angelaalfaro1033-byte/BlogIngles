@@ -7,7 +7,7 @@ export function BlogGrid() {
       {/* Título de sección */}
       <div className="text-center mb-12">
         <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-          Últimas <span className="text-red-600">Entradas</span>
+          Latest <span className="text-red-600">Posts</span>
         </h2>
         <div className="w-24 h-1 bg-gradient-to-r from-red-600 to-amber-400 mx-auto"></div>
       </div>
