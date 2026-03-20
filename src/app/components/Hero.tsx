@@ -24,21 +24,21 @@ export function Hero() {
       {/* Contenido */}
       <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-extrabold mb-6 leading-tight">
-          <span className="text-white">Todo sobre el </span>
+          <span className="text-white">Everything about the </span>
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-600 via-amber-400 to-blue-500">
-            universo Avengers
+            Avengers universe
           </span>
         </h1>
         
         <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto">
-          Noticias, análisis y curiosidades sobre las películas más épicas de Marvel
+          News, analysis and interesting facts about the most epic Marvel movies
         </p>
 
         <button
           onClick={scrollToArticles}
           className="group inline-flex items-center gap-2 bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 text-white px-8 py-4 rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg shadow-red-900/50"
         >
-          <span className="font-semibold">Explorar artículos</span>
+          <span className="font-semibold">Explore articles</span>
           <ArrowRight className="group-hover:translate-x-1 transition-transform" size={20} />
         </button>
       </div>
@@ -50,7 +50,7 @@ export function Hero() {
       <button
         onClick={scrollToArticles}
         className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 text-white/60 hover:text-white transition-colors animate-bounce"
-        aria-label="Scroll hacia abajo"
+        aria-label="Scroll down"
       >
         <ChevronDown size={32} />
       </button>
