@@ -13,77 +13,77 @@ export const posts: Post[] = [
   {
     id: 1,
     slug: 'analisis-avengers-endgame',
-    title: 'Análisis de Avengers: Endgame',
-    shortDescription: 'Avengers: Endgame marcó el cierre de una era en Marvel. La película muestra cómo los héroes intentan revertir el chasquido de Thanos mediante viajes en el tiempo, con momentos épicos y emocionales.',
-    fullContent: `Avengers: Endgame marcó el cierre de una era en Marvel. La película muestra cómo los héroes intentan revertir el chasquido de Thanos mediante viajes en el tiempo, con momentos épicos y emocionales. El sacrificio de Iron Man es uno de los puntos más impactantes del cine.
+    title: 'Avengers: Endgame Analysis',
+    shortDescription: 'Avengers: Endgame marked the end of an era in Marvel. The movie shows how the heroes try to reverse Thanos’ snap through time travel, with epic and emotional moments.',
+    fullContent: `Avengers: Endgame marked the end of an era in Marvel. The movie shows how the heroes try to reverse Thanos’ snap through time travel, with epic and emotional moments. Iron Man’s sacrifice is one of the most impactful moments in cinema.
 
-Esta película épica de 3 horas logró consolidarse como una de las películas más exitosas de la historia del cine. Los hermanos Russo dirigieron una obra maestra que combina acción, emoción y un cierre perfecto para la Saga del Infinito.
+This 3-hour epic film managed to establish itself as one of the most successful movies in cinema history. The Russo brothers directed a masterpiece that combines action, emotion, and a perfect ending to the Infinity Saga.
 
-El viaje temporal permitió a los fans revivir momentos icónicos de películas anteriores, creando una experiencia nostálgica única. Cada Avenger tuvo su momento de brillar, desde el Thor depresivo hasta el Capitán América empuñando Mjolnir.
+The time travel allowed fans to relive iconic moments from previous films, creating a unique nostalgic experience. Every Avenger had their moment to shine, from depressed Thor to Captain America wielding Mjolnir.
 
-La batalla final contra Thanos es sin duda una de las escenas más épicas jamás filmadas. Ver a todos los héroes del MCU reunidos, junto con el icónico "Avengers Assemble" del Capitán América, fue un momento que hizo historia en el cine.
+The final battle against Thanos is undoubtedly one of the most epic scenes ever filmed. Seeing all the MCU heroes united, along with Captain America’s iconic "Avengers Assemble", was a moment that made history in cinema.
 
-El sacrificio de Tony Stark resonó profundamente con los fans. Su frase "I am Iron Man" antes de usar las Gemas del Infinito cerró perfectamente el arco de un personaje que inició todo el universo cinematográfico de Marvel en 2008.`,
+Tony Stark’s sacrifice deeply resonated with fans. His line "I am Iron Man" before using the Infinity Stones perfectly closed the arc of a character who started the entire Marvel Cinematic Universe in 2008.`,
     image: 'https://images.unsplash.com/photo-1556912184-a30dc5c60740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhdmVuZ2VycyUyMGVuZGdhbWV8ZW58MXx8fHwxNzczNzk2ODUyfDA&ixlib=rb-4.1.0&q=80&w=1080',
-    date: '15 de marzo, 2026',
-    category: 'Análisis'
+    date: 'March 15, 2026',
+    category: 'Analysis'
   },
   {
     id: 2,
     slug: 'teorias-futuro-avengers',
-    title: 'Teorías del futuro de los Avengers',
-    shortDescription: 'Tras Endgame, los fans han creado teorías sobre nuevos equipos de Avengers. Se habla de una nueva generación de héroes y del multiverso como elemento clave para traer historias inesperadas.',
-    fullContent: `Tras Endgame, los fans han creado teorías sobre nuevos equipos de Avengers. Se habla de una nueva generación de héroes y del multiverso como elemento clave para traer historias inesperadas y nuevos villanos.
+    title: 'Theories About the Future of the Avengers',
+    shortDescription: 'After Endgame, fans have created theories about new Avengers teams. There is talk about a new generation of heroes and the multiverse as a key element to bring unexpected stories.',
+    fullContent: `After Endgame, fans have created theories about new Avengers teams. There is talk about a new generation of heroes and the multiverse as a key element to bring unexpected stories and new villains.
 
-El multiverso se ha convertido en el eje central de la nueva fase del MCU. Con personajes como Doctor Strange explorando realidades alternativas, las posibilidades son infinitas. Esto abre la puerta a versiones alternativas de héroes conocidos y a la introducción de nuevos personajes de los cómics.
+The multiverse has become the central axis of the MCU’s new phase. With characters like Doctor Strange exploring alternate realities, the possibilities are endless. This opens the door to alternative versions of known heroes and the introduction of new comic book characters.
 
-Una de las teorías más populares sugiere que veremos a los Young Avengers en acción. Personajes como Kate Bishop, Ironheart, Ms. Marvel y otros jóvenes héroes podrían formar el siguiente equipo principal.
+One of the most popular theories suggests we will see the Young Avengers in action. Characters like Kate Bishop, Ironheart, Ms. Marvel, and other young heroes could form the next main team.
 
-Otra teoría interesante habla sobre la formación de los Dark Avengers, un equipo de anti-héroes y villanos reformados. Con personajes como Yelena Belova, John Walker y otros en el MCU, esta posibilidad es cada vez más real.
+Another interesting theory talks about the formation of the Dark Avengers, a team of anti-heroes and reformed villains. With characters like Yelena Belova, John Walker, and others in the MCU, this possibility is becoming more real.
 
-La introducción de los mutantes y los Cuatro Fantásticos también promete cambiar completamente el panorama del MCU. Los fans especulan sobre cómo estos equipos icónicos se integrarán con los Avengers existentes y qué amenazas cósmicas enfrentarán juntos.`,
+The introduction of mutants and the Fantastic Four also promises to completely change the MCU landscape. Fans speculate on how these iconic teams will integrate with the existing Avengers and what cosmic threats they will face together.`,
     image: 'https://images.unsplash.com/photo-1608889175106-86d4a3c66bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYXJ2ZWwlMjBzdXBlcmhlcm8lMjB0ZWFtfGVufDF8fHx8MTc3Mzc5Njg1Mnww&ixlib=rb-4.1.0&q=80&w=1080',
-    date: '12 de marzo, 2026',
-    category: 'Teorías'
+    date: 'March 12, 2026',
+    category: 'Theories'
   },
   {
     id: 3,
     slug: 'avengers-mas-poderosos',
-    title: 'Los Avengers más poderosos',
-    shortDescription: 'Personajes como Thor, Capitana Marvel y Scarlet Witch destacan por su gran poder. Cada uno aporta habilidades únicas que han sido clave en las batallas contra amenazas como Thanos.',
-    fullContent: `Personajes como Thor, Capitana Marvel y Scarlet Witch destacan por su gran poder. Cada uno aporta habilidades únicas que han sido clave en las batallas contra amenazas como Thanos.
+    title: 'The Most Powerful Avengers',
+    shortDescription: 'Characters like Thor, Captain Marvel, and Scarlet Witch stand out for their immense power. Each one brings unique abilities that have been key in battles against threats like Thanos.',
+    fullContent: `Characters like Thor, Captain Marvel, and Scarlet Witch stand out for their immense power. Each one brings unique abilities that have been key in battles against threats like Thanos.
 
-Thor, el Dios del Trueno, ha demostrado ser uno de los Avengers más poderosos. Con su hacha Stormbreaker, fue capaz de herir gravemente a Thanos incluso con todas las Gemas del Infinito. Su poder cósmico y su longevidad asgardiana lo convierten en un guerrero formidable.
+Thor, the God of Thunder, has proven to be one of the most powerful Avengers. With his axe Stormbreaker, he was able to seriously injure Thanos even with all the Infinity Stones. His cosmic power and Asgardian longevity make him a formidable warrior.
 
-Capitana Marvel posee poderes casi ilimitados derivados de la energía del Teseracto. Su capacidad de volar a velocidades supersónicas, disparar ráfagas de energía fotónica y absorber energía la convierten en una de las heroínas más poderosas del MCU.
+Captain Marvel possesses nearly unlimited powers derived from the energy of the Tesseract. Her ability to fly at supersonic speeds, shoot photonic energy blasts, and absorb energy makes her one of the most powerful heroes in the MCU.
 
-Scarlet Witch ha demostrado un potencial aterrador. Su magia del caos le permite alterar la realidad misma. En WandaVision vimos cómo creó una realidad completa, y en Doctor Strange in the Multiverse of Madness demostró poder atravesar el multiverso.
+Scarlet Witch has demonstrated terrifying potential. Her chaos magic allows her to alter reality itself. In WandaVision, we saw how she created an entire reality, and in Doctor Strange in the Multiverse of Madness, she proved capable of traveling through the multiverse.
 
-Doctor Strange, como Hechicero Supremo, maneja las artes místicas con maestría. Su conocimiento de hechizos y su capacidad de manipular el tiempo lo convierten en un activo invaluable para los Avengers.
+Doctor Strange, as the Sorcerer Supreme, masters the mystic arts. His knowledge of spells and his ability to manipulate time make him an invaluable asset to the Avengers.
 
-Hulk, aunque menos destacado en películas recientes, sigue siendo una fuerza imparable cuando se enfurece. Su fuerza es prácticamente ilimitada y ha demostrado ser capaz de enfrentar a los enemigos más poderosos.`,
+Hulk, although less prominent in recent films, remains an unstoppable force when enraged. His strength is practically limitless and he has proven capable of facing the most powerful enemies.`,
     image: 'https://images.unsplash.com/photo-1638379036667-ee3e8d663f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYXB0YWluJTIwbWFydmVsfGVufDF8fHx8MTc3Mzc5Njg1Mnww&ixlib=rb-4.1.0&q=80&w=1080',
-    date: '10 de marzo, 2026',
+    date: 'March 10, 2026',
     category: 'Rankings'
   },
   {
     id: 4,
     slug: 'proximas-peliculas-marvel',
-    title: 'Próximas películas de Marvel',
-    shortDescription: 'Marvel continúa expandiendo su universo con nuevas películas. Aunque los Avengers originales ya no están completos, su legado sigue con nuevos héroes e historias conectadas.',
-    fullContent: `Marvel continúa expandiendo su universo con nuevas películas. Aunque los Avengers originales ya no están completos, su legado sigue con nuevos héroes e historias conectadas.
+    title: 'Upcoming Marvel Movies',
+    shortDescription: 'Marvel continues expanding its universe with new movies. Although the original Avengers are no longer complete, their legacy continues with new heroes and connected stories.',
+    fullContent: `Marvel continues expanding its universe with new movies. Although the original Avengers are no longer complete, their legacy continues with new heroes and connected stories.
 
-El futuro del MCU promete ser emocionante con la llegada de nuevas fases. Marvel Studios tiene planeado un extenso calendario de películas que explorarán tanto a personajes establecidos como a nuevos héroes.
+The future of the MCU promises to be exciting with the arrival of new phases. Marvel Studios has planned an extensive schedule of films that will explore both established characters and new heroes.
 
-Una de las películas más esperadas es la próxima entrega de los Vengadores, que reunirá a los héroes para enfrentar a Kang el Conquistador, uno de los villanos más poderosos de Marvel Comics. Esta amenaza multiversal requerirá que todos los héroes se unan.
+One of the most anticipated films is the next Avengers installment, which will bring heroes together to face Kang the Conqueror, one of the most powerful villains in Marvel Comics. This multiversal threat will require all heroes to unite.
 
-Los Cuatro Fantásticos finalmente tendrán su debut oficial en el MCU, trayendo consigo nuevas dinámicas y tecnología. Reed Richards, Sue Storm, Johnny Storm y Ben Grimm se convertirán en piezas clave del universo.
+The Fantastic Four will finally make their official debut in the MCU, bringing new dynamics and technology. Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm will become key pieces of the universe.
 
-Películas como Thunderbolts prometen explorar el lado más oscuro del MCU, con anti-héroes y villanos reformados trabajando juntos. Este enfoque fresco muestra que Marvel no teme experimentar con diferentes géneros y tonos.
+Movies like Thunderbolts promise to explore the darker side of the MCU, with anti-heroes and reformed villains working together. This fresh approach shows that Marvel is not afraid to experiment with different genres and tones.
 
-Además, se esperan más películas de personajes ya establecidos como Spider-Man, Doctor Strange y Shang-Chi, cada una continuando sus arcos personales mientras se conectan con la narrativa más amplia del multiverso.`,
+Additionally, more films featuring already established characters like Spider-Man, Doctor Strange, and Shang-Chi are expected, each continuing their personal arcs while connecting to the broader multiverse narrative.`,
     image: 'https://images.unsplash.com/photo-1643677841226-d6427625f118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXJrJTIwY2luZW1hJTIwc3VwZXJoZXJvfGVufDF8fHx8MTc3Mzc5Njg1NXww&ixlib=rb-4.1.0&q=80&w=1080',
-    date: '8 de marzo, 2026',
-    category: 'Noticias'
+    date: 'March 8, 2026',
+    category: 'News'
   }
 ];
