@@ -16,10 +16,10 @@ export function Navbar() {
   }, []);
 
   const menuItems = [
-    { label: 'Inicio', path: '/' },
-    { label: 'Noticias', path: '/noticias' },
-    { label: 'Películas', path: '/peliculas' },
-    { label: 'Personajes', path: '/personajes' }
+    { label: 'Home', path: '/' },
+    { label: 'News', path: '/noticias' },
+    { label: 'Movies', path: '/peliculas' },
+    { label: 'Characters', path: '/personajes' }
   ];
 
   return (
