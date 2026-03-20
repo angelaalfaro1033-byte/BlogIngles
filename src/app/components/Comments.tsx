@@ -9,7 +9,7 @@ export function Comments() {
         <div className="flex items-center gap-3 mb-8">
           <MessageSquare className="text-red-600" size={28} />
           <h3 className="text-3xl font-bold text-white">
-            Comentarios
+            Comments
           </h3>
         </div>
 
