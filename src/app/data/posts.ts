@@ -24,8 +24,7 @@ The time travel allowed fans to relive iconic moments from previous films, creat
 The final battle against Thanos is undoubtedly one of the most epic scenes ever filmed. Seeing all the MCU heroes united, along with Captain America’s iconic "Avengers Assemble", was a moment that made history in cinema.
 
 Tony Stark’s sacrifice deeply resonated with fans. His line "I am Iron Man" before using the Infinity Stones perfectly closed the arc of a character who started the entire Marvel Cinematic Universe in 2008.`,
-    image: 'https://images.unsplash.com/photo-1556912184-a30dc5c60740?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhdmVuZ2VycyUyMGVuZGdhbWV8ZW58MXx8fHwxNzczNzk2ODUyfDA&ixlib=rb-4.1.0&q=80&w=1080',
-    date: 'March 15, 2026',
+ image: 'https://images.unsplash.com/photo-1581276879432-15e50529f34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wbWVudCUyMGNvZGluZyUyMHJlYWN0fGVufDF8fHx8MTc3Mzk3Mzc0OXww&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 15, 2026',
     category: 'Analysis'
   },
   {
@@ -42,8 +41,7 @@ One of the most popular theories suggests we will see the Young Avengers in acti
 Another interesting theory talks about the formation of the Dark Avengers, a team of anti-heroes and reformed villains. With characters like Yelena Belova, John Walker, and others in the MCU, this possibility is becoming more real.
 
 The introduction of mutants and the Fantastic Four also promises to completely change the MCU landscape. Fans speculate on how these iconic teams will integrate with the existing Avengers and what cosmic threats they will face together.`,
-    image: 'https://images.unsplash.com/photo-1608889175106-86d4a3c66bd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYXJ2ZWwlMjBzdXBlcmhlcm8lMjB0ZWFtfGVufDF8fHx8MTc3Mzc5Njg1Mnww&ixlib=rb-4.1.0&q=80&w=1080',
-    date: 'March 12, 2026',
+ image: 'https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwbmV1cmFsJTIwbmV0d29ya3xlbnwxfHx8fDE3NzM5NTQ5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 12, 2026',
     category: 'Theories'
   },
   {
@@ -62,8 +60,7 @@ Scarlet Witch has demonstrated terrifying potential. Her chaos magic allows her 
 Doctor Strange, as the Sorcerer Supreme, masters the mystic arts. His knowledge of spells and his ability to manipulate time make him an invaluable asset to the Avengers.
 
 Hulk, although less prominent in recent films, remains an unstoppable force when enraged. His strength is practically limitless and he has proven capable of facing the most powerful enemies.`,
-    image: 'https://images.unsplash.com/photo-1638379036667-ee3e8d663f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYXB0YWluJTIwbWFydmVsfGVufDF8fHx8MTc3Mzc5Njg1Mnww&ixlib=rb-4.1.0&q=80&w=1080',
-    date: 'March 10, 2026',
+  image: 'https://images.unsplash.com/photo-1760199789455-49098afd02f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwaGFja2VyJTIwc2VjdXJpdHl8ZW58MXx8fHwxNzczOTczNzUwfDA&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 10, 2026',
     category: 'Rankings'
   },
   {
@@ -82,8 +79,7 @@ The Fantastic Four will finally make their official debut in the MCU, bringing n
 Movies like Thunderbolts promise to explore the darker side of the MCU, with anti-heroes and reformed villains working together. This fresh approach shows that Marvel is not afraid to experiment with different genres and tones.
 
 Additionally, more films featuring already established characters like Spider-Man, Doctor Strange, and Shang-Chi are expected, each continuing their personal arcs while connecting to the broader multiverse narrative.`,
-    image: 'https://images.unsplash.com/photo-1643677841226-d6427625f118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXJrJTIwY2luZW1hJTIwc3VwZXJoZXJvfGVufDF8fHx8MTc3Mzc5Njg1NXww&ixlib=rb-4.1.0&q=80&w=1080',
-    date: 'March 8, 2026',
+      image: 'https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbG91ZCUyMGNvbXB1dGluZyUyMHNlcnZlcnMlMjB0ZWNobm9sb2d5fGVufDF8fHx8MTc3MzkwNjk0OXww&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 8, 2026',
     category: 'News'
   }
 ];
