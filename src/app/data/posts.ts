@@ -12,74 +12,170 @@ export interface Post {
 export const posts: Post[] = [
   {
     id: 1,
-    slug: 'analisis-avengers-endgame',
-    title: 'Avengers: Endgame Analysis',
-    shortDescription: 'Avengers: Endgame marked the end of an era in Marvel. The movie shows how the heroes try to reverse Thanos’ snap through time travel, with epic and emotional moments.',
-    fullContent: `Avengers: Endgame marked the end of an era in Marvel. The movie shows how the heroes try to reverse Thanos’ snap through time travel, with epic and emotional moments. Iron Man’s sacrifice is one of the most impactful moments in cinema.
+    slug: 'how-do-flowcharts-work',
+    title: 'How Do Flowcharts Work?',
+    shortDescription: 'Flowcharts are a key tool in programming and problem-solving because they represent processes visually.',
+    fullContent: `Flowcharts are a highly relevant tool in the creation process during programming and in problem-solving, as they allow processes to be represented in a visual, clear, and organized way.
 
-This 3-hour epic film managed to establish itself as one of the most successful movies in cinema history. The Russo brothers directed a masterpiece that combines action, emotion, and a perfect ending to the Infinity Saga.
+In this research, we explore how they work and why they are so important in the world of Systems Engineering.
 
-The time travel allowed fans to relive iconic moments from previous films, creating a unique nostalgic experience. Every Avenger had their moment to shine, from depressed Thor to Captain America wielding Mjolnir.
+What is a flowchart?
+A flowchart works as a graphical representation of a process or algorithm. It uses symbols connected by arrows to show step by step how a task is carried out.
+Instead of reading many lines of text, you can understand the entire process just by looking at the diagram.
 
-The final battle against Thanos is undoubtedly one of the most epic scenes ever filmed. Seeing all the MCU heroes united, along with Captain America’s iconic "Avengers Assemble", was a moment that made history in cinema.
+How do they work?
+Flowcharts work by organizing a process into a logical sequence of steps. Each symbol represents a specific action, and the arrows indicate the order in which they must be executed.
+The process starts at a specific point, moves step by step, and can make decisions depending on certain conditions.
 
-Tony Stark’s sacrifice deeply resonated with fans. His line "I am Iron Man" before using the Infinity Stones perfectly closed the arc of a character who started the entire Marvel Cinematic Universe in 2008.`,
- image: 'https://images.unsplash.com/photo-1581276879432-15e50529f34b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXZlbG9wbWVudCUyMGNvZGluZyUyMHJlYWN0fGVufDF8fHx8MTc3Mzk3Mzc0OXww&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 15, 2026',
-    category: 'Analysis'
+For example:
+• The process starts  
+• An action is performed  
+• A condition is evaluated (yes or no)  
+• It continues along different paths depending on the answer  
+• Finally, a result is reached  
+
+Most important symbols:
+• Oval: Indicates the start and end of the process  
+• Rectangle: Represents an action or instruction  
+• Diamond: Represents a decision (yes / no)  
+• Arrows: Indicate the direction of the flow  
+
+These symbols allow anyone to understand the process without needing long explanations.
+
+Why are they important?
+• Help understand complex problems  
+• Allow planning before programming  
+• Make it easier to find errors in a process  
+• Improve the organization of ideas  
+
+In programming, they are key before writing code, since they force you to think through the logic correctly.
+
+Simple example:
+Let’s imagine a process to determine whether a number is even or odd:
+• Enter a number  
+• Divide the number by 2  
+• Is the remainder 0?  
+• Yes → It is even  
+• No → It is odd  
+
+This process, in a flowchart, would look much clearer and easier to understand.
+
+Flowcharts are an essential tool for any systems student. They not only help represent processes but also develop logical thinking.
+
+From our experience, learning to use them greatly facilitates the programming process and helps avoid errors from the start.`,
+    image: 'https://images.unsplash.com/photo-1581276879432-15e50529f34b',
+    date: 'March 20, 2026',
+    category: 'Education'
   },
   {
     id: 2,
-    slug: 'teorias-futuro-avengers',
-    title: 'Theories About the Future of the Avengers',
-    shortDescription: 'After Endgame, fans have created theories about new Avengers teams. There is talk about a new generation of heroes and the multiverse as a key element to bring unexpected stories.',
-    fullContent: `After Endgame, fans have created theories about new Avengers teams. There is talk about a new generation of heroes and the multiverse as a key element to bring unexpected stories and new villains.
+    slug: 'is-studying-systems-engineering-worth-it',
+    title: 'Is Studying Systems Engineering Worth It?',
+    shortDescription: 'An analysis of advantages, challenges, and tips for studying Systems Engineering.',
+    fullContent: `Systems Engineering is one of the most in-demand careers today, especially due to the constant growth of technology in all areas of life. However, many people wonder whether it is truly worth studying.
 
-The multiverse has become the central axis of the MCU’s new phase. With characters like Doctor Strange exploring alternate realities, the possibilities are endless. This opens the door to alternative versions of known heroes and the introduction of new comic book characters.
+This article analyzes its advantages, challenges, and some key tips for those who decide to follow this path.
 
-One of the most popular theories suggests we will see the Young Avengers in action. Characters like Kate Bishop, Ironheart, Ms. Marvel, and other young heroes could form the next main team.
+What is Systems Engineering?
+Systems Engineering focuses on software development, management of information systems, and problem-solving through technological tools.
+It is not only about programming, but also about analyzing, designing, and implementing solutions that add value in different sectors such as education, healthcare, business, and more.
 
-Another interesting theory talks about the formation of the Dark Avengers, a team of anti-heroes and reformed villains. With characters like Yelena Belova, John Walker, and others in the MCU, this possibility is becoming more real.
+Advantages of studying this career:
+• High job demand: Companies increasingly require technology professionals.  
+• Good economic opportunities: It is a career with strong salary potential.  
+• Remote work possibilities: There are opportunities to work with national and international companies.  
+• Development of logical thinking: It strengthens structured problem-solving skills.  
 
-The introduction of mutants and the Fantastic Four also promises to completely change the MCU landscape. Fans speculate on how these iconic teams will integrate with the existing Avengers and what cosmic threats they will face together.`,
- image: 'https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwbmV1cmFsJTIwbmV0d29ya3xlbnwxfHx8fDE3NzM5NTQ5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 12, 2026',
-    category: 'Theories'
+Challenges of the career:
+• It requires discipline and consistency  
+• It involves learning complex topics such as mathematics and logic  
+• Technology evolves constantly  
+• It can be frustrating when results are not immediate  
+
+Additionally, in distance learning programs such as the University of Tolima, where students attend in person only one day per week, the challenge becomes greater. This type of modality requires students to develop autonomous learning skills and strong time management.
+
+Tips for success:
+• Be self-taught  
+• Manage your time  
+• Practice constantly  
+• Use additional resources  
+• Work as a team  
+• Do not give up on mistakes  
+
+Is it worth it?
+Yes, Systems Engineering is worth it for those who are interested in technology and are willing to take on the challenge of continuous learning.
+
+It is not an easy career, but it offers great opportunities for professional and personal growth.
+
+Systems Engineering is a career with a promising future, but it requires commitment, discipline, and autonomy. Especially in distance learning modalities, success largely depends on individual effort.
+
+With the right tools and a good learning attitude, it is possible to make the most of everything this career has to offer.`,
+    image: 'https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f',
+    date: 'March 18, 2026',
+    category: 'Career'
   },
   {
     id: 3,
-    slug: 'avengers-mas-poderosos',
-    title: 'The Most Powerful Avengers',
-    shortDescription: 'Characters like Thor, Captain Marvel, and Scarlet Witch stand out for their immense power. Each one brings unique abilities that have been key in battles against threats like Thanos.',
-    fullContent: `Characters like Thor, Captain Marvel, and Scarlet Witch stand out for their immense power. Each one brings unique abilities that have been key in battles against threats like Thanos.
+    slug: 'how-i-am-improving-my-english',
+    title: 'How I Am Improving My English',
+    shortDescription: 'Strategies and tools to improve English, especially in technology fields.',
+    fullContent: `Learning English has become an essential skill, especially in fields related to technology. In areas like Systems Engineering, a large amount of information, documentation, and tools are in English.
 
-Thor, the God of Thunder, has proven to be one of the most powerful Avengers. With his axe Stormbreaker, he was able to seriously injure Thanos even with all the Infinity Stones. His cosmic power and Asgardian longevity make him a formidable warrior.
+Why is learning English important?
+English is considered the global language of technology. Most programming languages, documentation, tutorials, and professional resources are written in English.
 
-Captain Marvel possesses nearly unlimited powers derived from the energy of the Tesseract. Her ability to fly at supersonic speeds, shoot photonic energy blasts, and absorb energy makes her one of the most powerful heroes in the MCU.
+Strategies to improve English:
+• Practice every day  
+• Focus on reading, writing, listening, and speaking  
+• Learn vocabulary related to your field  
+• Be patient and consistent  
 
-Scarlet Witch has demonstrated terrifying potential. Her chaos magic allows her to alter reality itself. In WandaVision, we saw how she created an entire reality, and in Doctor Strange in the Multiverse of Madness, she proved capable of traveling through the multiverse.
+Useful tools and resources:
+One useful option is USA Learns, a free platform that offers interactive lessons.
 
-Doctor Strange, as the Sorcerer Supreme, masters the mystic arts. His knowledge of spells and his ability to manipulate time make him an invaluable asset to the Avengers.
+Other resources:
+• Watching videos in English  
+• Reading documentation  
+• Using apps and courses  
+• Listening to music or podcasts  
 
-Hulk, although less prominent in recent films, remains an unstoppable force when enraged. His strength is practically limitless and he has proven capable of facing the most powerful enemies.`,
-  image: 'https://images.unsplash.com/photo-1760199789455-49098afd02f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwaGFja2VyJTIwc2VjdXJpdHl8ZW58MXx8fHwxNzczOTczNzUwfDA&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 10, 2026',
-    category: 'Rankings'
+The importance of consistency:
+Studying a little every day is more effective than studying occasionally.
+
+Improving English is a gradual process that requires dedication and the use of appropriate tools. With constant practice, it is possible to strengthen this skill and access better opportunities.`,
+    image: 'https://images.unsplash.com/photo-1760199789455-49098afd02f0',
+    date: 'March 15, 2026',
+    category: 'Learning'
   },
   {
     id: 4,
-    slug: 'proximas-peliculas-marvel',
-    title: 'Upcoming Marvel Movies',
-    shortDescription: 'Marvel continues expanding its universe with new movies. Although the original Avengers are no longer complete, their legacy continues with new heroes and connected stories.',
-    fullContent: `Marvel continues expanding its universe with new movies. Although the original Avengers are no longer complete, their legacy continues with new heroes and connected stories.
+    slug: 'future-of-technology-in-colombia',
+    title: 'The Future of Technology in Colombia',
+    shortDescription: 'An overview of technological growth, challenges, and opportunities in Colombia.',
+    fullContent: `Technology is rapidly transforming societies around the world, and Colombia is no exception.
 
-The future of the MCU promises to be exciting with the arrival of new phases. Marvel Studios has planned an extensive schedule of films that will explore both established characters and new heroes.
+Digital growth and innovation:
+Colombia has strengthened its technological ecosystem through startups and entrepreneurship. Cities like Bogotá and Medellín are innovation hubs.
 
-One of the most anticipated films is the next Avengers installment, which will bring heroes together to face Kang the Conqueror, one of the most powerful villains in Marvel Comics. This multiversal threat will require all heroes to unite.
+Key areas:
+• Artificial Intelligence  
+• Software development  
+• Cybersecurity  
+• E-commerce  
+• EdTech  
 
-The Fantastic Four will finally make their official debut in the MCU, bringing new dynamics and technology. Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm will become key pieces of the universe.
+Challenges:
+• Limited access in rural areas  
+• Need for better digital education  
+• Infrastructure gaps  
+• Lack of skilled professionals  
 
-Movies like Thunderbolts promise to explore the darker side of the MCU, with anti-heroes and reformed villains working together. This fresh approach shows that Marvel is not afraid to experiment with different genres and tones.
+Opportunities:
+The demand for tech professionals continues to grow, especially for Systems Engineering students.
 
-Additionally, more films featuring already established characters like Spider-Man, Doctor Strange, and Shang-Chi are expected, each continuing their personal arcs while connecting to the broader multiverse narrative.`,
-      image: 'https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbG91ZCUyMGNvbXB1dGluZyUyMHNlcnZlcnMlMjB0ZWNobm9sb2d5fGVufDF8fHx8MTc3MzkwNjk0OXww&ixlib=rb-4.1.0&q=80&w=1080',    date: 'March 8, 2026',
-    category: 'News'
+The future of technology in Colombia is promising, with continuous growth in innovation and digital transformation. With preparation and the right mindset, great opportunities can be achieved.`,
+    image: 'https://images.unsplash.com/photo-1506399558188-acca6f8cbf41',
+    date: 'March 12, 2026',
+    category: 'Technology'
   }
 ];
