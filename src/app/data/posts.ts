@@ -177,5 +177,277 @@ The future of technology in Colombia is promising, with continuous growth in inn
     image: 'https://images.unsplash.com/photo-1506399558188-acca6f8cbf41',
     date: 'March 12, 2026',
     category: 'Technology'
-  }
+  },
+  {
+  id: 5,
+  slug: 'artificial-intelligence-in-everyday-life',
+  title: 'Artificial Intelligence in Everyday Life',
+  shortDescription: 'Discover how artificial intelligence is transforming daily activities and modern society.',
+  fullContent: `Artificial Intelligence (AI) has become an important part of everyday life, often without people realizing it.
+
+Common applications:
+• Virtual assistants
+• Recommendation systems
+• Smart home devices
+• Navigation apps
+• Online customer support
+
+Benefits:
+• Increased efficiency
+• Personalized experiences
+• Faster decision-making
+• Automation of repetitive tasks
+
+Challenges:
+• Data privacy concerns
+• Ethical considerations
+• Algorithmic bias
+
+As AI continues to evolve, its influence on technology and society will only continue to grow.`,
+  image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995',
+  date: 'March 14, 2026',
+  category: 'Artificial Intelligence'
+},
+{
+  id: 6,
+  slug: 'introduction-to-cloud-computing',
+  title: 'Introduction to Cloud Computing',
+  shortDescription: 'Learn the fundamentals of cloud computing and why businesses rely on it.',
+  fullContent: `Cloud computing allows organizations to access computing resources through the internet.
+
+Advantages:
+• Scalability
+• Cost reduction
+• Remote accessibility
+• High availability
+• Disaster recovery
+
+Cloud service models:
+• Infrastructure as a Service (IaaS)
+• Platform as a Service (PaaS)
+• Software as a Service (SaaS)
+
+Popular providers:
+• Amazon Web Services
+• Microsoft Azure
+• Google Cloud Platform
+
+Cloud technologies have become essential for modern software development and business operations.`,
+  image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa',
+  date: 'March 16, 2026',
+  category: 'Cloud Computing'
+},
+{
+  id: 7,
+  slug: 'cybersecurity-in-the-digital-age',
+  title: 'Cybersecurity in the Digital Age',
+  shortDescription: 'Understanding the importance of protecting systems and data from cyber threats.',
+  fullContent: `As digital technologies expand, cybersecurity becomes increasingly important.
+
+Common cyber threats:
+• Malware
+• Phishing
+• Ransomware
+• Data breaches
+• Social engineering attacks
+
+Best practices:
+• Strong passwords
+• Multi-factor authentication
+• Regular software updates
+• Secure backups
+
+Importance:
+Organizations and individuals must remain vigilant to protect sensitive information and maintain digital trust.`,
+  image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3',
+  date: 'March 18, 2026',
+  category: 'Cybersecurity'
+},
+{
+  id: 8,
+  slug: 'software-development-life-cycle',
+  title: 'Understanding the Software Development Life Cycle',
+  shortDescription: 'A guide to the stages involved in creating high-quality software.',
+  fullContent: `The Software Development Life Cycle (SDLC) provides a structured approach to software creation.
+
+Main phases:
+• Planning
+• Requirements analysis
+• Design
+• Development
+• Testing
+• Deployment
+• Maintenance
+
+Benefits:
+• Better project management
+• Improved software quality
+• Reduced risks
+• Efficient collaboration
+
+Following a well-defined SDLC helps teams deliver reliable and scalable software solutions.`,
+  image: 'https://images.unsplash.com/photo-1515879218367-8466d910aaa4',
+  date: 'March 20, 2026',
+  category: 'Software Engineering'
+},
+{
+  id: 9,
+  slug: 'internet-of-things-connected-world',
+  title: 'The Internet of Things and the Connected World',
+  shortDescription: 'Explore how connected devices are changing industries and everyday life.',
+  fullContent: `The Internet of Things (IoT) refers to devices connected to the internet that can collect and exchange data.
+
+Examples:
+• Smart thermostats
+• Fitness trackers
+• Connected vehicles
+• Smart appliances
+• Industrial sensors
+
+Benefits:
+• Automation
+• Real-time monitoring
+• Improved efficiency
+• Better decision-making
+
+Challenges:
+• Security vulnerabilities
+• Privacy concerns
+• Device compatibility
+
+IoT continues to expand, creating innovative opportunities across multiple industries.`,
+  image: 'https://images.unsplash.com/photo-1518770660439-4636190af475',
+  date: 'March 22, 2026',
+  category: 'IoT'
+},
+{
+  id: 10,
+  slug: 'importance-of-database-management',
+  title: 'The Importance of Database Management',
+  shortDescription: 'Why effective database management is critical for modern applications.',
+  fullContent: `Databases are at the core of nearly every software application.
+
+Key functions:
+• Data storage
+• Data retrieval
+• Security management
+• Data integrity
+• Performance optimization
+
+Popular database systems:
+• MySQL
+• PostgreSQL
+• SQL Server
+• MongoDB
+
+Benefits:
+• Efficient information management
+• Better decision-making
+• Improved application performance
+
+Database management is a fundamental skill for Systems Engineering professionals.`,
+  image: 'https://images.unsplash.com/photo-1544383835-bda2bc66a55d',
+  date: 'March 24, 2026',
+  category: 'Databases'
+},
+{
+  id: 11,
+  slug: 'agile-methodologies-in-software-projects',
+  title: 'Agile Methodologies in Software Projects',
+  shortDescription: 'How Agile practices improve collaboration and project delivery.',
+  fullContent: `Agile methodologies focus on flexibility, collaboration, and continuous improvement.
+
+Popular frameworks:
+• Scrum
+• Kanban
+• Extreme Programming
+
+Benefits:
+• Faster delivery cycles
+• Better communication
+• Increased adaptability
+• Improved customer satisfaction
+
+Agile practices help teams respond effectively to changing requirements and business needs.`,
+  image: 'https://images.unsplash.com/photo-1522071820081-009f0129c71c',
+  date: 'March 26, 2026',
+  category: 'Agile'
+},
+{
+  id: 12,
+  slug: 'future-of-robotics',
+  title: 'The Future of Robotics',
+  shortDescription: 'Examining the growing role of robotics in industry and society.',
+  fullContent: `Robotics combines engineering, software, and artificial intelligence to automate tasks.
+
+Applications:
+• Manufacturing
+• Healthcare
+• Agriculture
+• Logistics
+• Space exploration
+
+Benefits:
+• Increased productivity
+• Enhanced precision
+• Reduced operational costs
+
+Challenges:
+• Development costs
+• Ethical concerns
+• Workforce adaptation
+
+Robotics is expected to play a major role in future technological innovation.`,
+  image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e',
+  date: 'March 28, 2026',
+  category: 'Robotics'
+},
+{
+  id: 13,
+  slug: 'big-data-revolution',
+  title: 'The Big Data Revolution',
+  shortDescription: 'Understanding how massive datasets are transforming industries.',
+  fullContent: `Big Data refers to extremely large datasets that can be analyzed to reveal patterns and insights.
+
+Characteristics:
+• Volume
+• Velocity
+• Variety
+• Veracity
+
+Applications:
+• Marketing analytics
+• Healthcare research
+• Financial forecasting
+• Smart cities
+
+Organizations use Big Data to make informed decisions and gain competitive advantages.`,
+  image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71',
+  date: 'March 30, 2026',
+  category: 'Data Science'
+},
+{
+  id: 14,
+  slug: 'computer-networks-fundamentals',
+  title: 'Computer Networks Fundamentals',
+  shortDescription: 'An introduction to networking concepts every Systems Engineering student should know.',
+  fullContent: `Computer networks allow devices to communicate and share information.
+
+Key components:
+• Routers
+• Switches
+• Servers
+• Clients
+
+Important concepts:
+• IP addresses
+• DNS
+• TCP/IP
+• Network security
+
+Networking knowledge is essential for designing and maintaining modern information systems.`,
+  image: 'https://images.unsplash.com/photo-1516321497487-e288fb19713f',
+  date: 'April 1, 2026',
+  category: 'Networking'
+}
 ];
